@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "nuklea",
-    "repositoryName": "nuklea.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"nuklea","repositoryName":"nuklea.github.io","branch":"master"},"site":{"title":"Blog","url":"http://nuklea.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://nuklea.github.io/themes/Casper"}}
